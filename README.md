@@ -11,6 +11,7 @@ Fonksiyon işaretçisi basit olarak fonksiyon adının saklandığı bellek adre
 Fonksiyon işaretçileri sayesinde fonksiyonlar başka fonksiyonlara parametre olarak aktarılabilmektedirler.
 
 AÇIK ARTTIRMA VE OYUN PROJESİ TEORİSİ İLİŞKİSİ:
+
 Oyun teorisi, karar verme ve stratejik etkileşimlerin incelendiği kavramdır. Oyun teorisi, bir oyuncunun aldığı kararın, diğer oyuncuların kararlarına bağlı olarak nasıl değişebileceğini gözlemler. Bu, genellikle tartışma,fikir alişverişi gibi durumları ortaya çıkarır.
 Açık artırma, bir ürünün v en yüksek teklifi verene satıldığı bir satış yöntemidir. Katılımcılar teklif verir ve en yüksek teklifi veren kişi, ürünü satın almaya hak kazanır.Buradada bir rekabet ortamı oluşur.
 Açık artırma, rekabet ortamı oluşturur ve katılımcılar arasında stratejik bir rekabeti tetikler. Oyun teorisi ise bu stratejik etkileşimleri anlamak için kullanılır. Yani, açık artırmada her bir teklif, katılımcıların stratejilerini yansıtır ve diğer katılımcıların davranışlarına bağlı olarak değişebilir.
