@@ -1,5 +1,7 @@
 # Acik-Arttirma-projesi
 Kısa Sınav-2
+
+
 TYPEDEF: Değişken tanımlama yaparken kullanılan int, float, char gibi değişken isimlerini değiştirmeye yarar.Struct  ile beraber kullanıldığında oluşturduğumuz yapıyı bir değişken türü olarak tanımlayıp o yapının çoğaltılmasını sağlar. Bu yapıdan değişken tanımlamak için tekrar struct deyiminin kullanılmamıza gerek kalmaz.
 
 STRUCT:İnt, float, char gibi farklı tipteki değişkenleri veya aynı türdeki birden çok değişkeni bir araya getirmeyi sağlar.Farklı veri tiplerine sahip değişkenlerin aynı yerde değerlendirilmesi ve tek bir isimle kullanılması amacıyla tercih edilen bir veri türüdür.
